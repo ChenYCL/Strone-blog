@@ -14,9 +14,9 @@ Fisrstly,show effects
 
 root dir, find _config.yml ,change themes: landscape to themes: hexo-theme-miho
 
--cd blog
--npm install
--hexo s
+- cd blog
+- npm install
+- hexo s
 
 # deploy
 if you want generate static web, you should use  *hexo g* to build a publish diretory
