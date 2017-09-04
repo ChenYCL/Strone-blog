@@ -10,7 +10,8 @@ Fisrstly,show effects
 - hexo init blog
 - cd blog
 - cd themes
-- git clone https://github.com/ChenYCL/hexo-theme-miho.git 
+- git clone -b change https://github.com/ChenYCL/hexo-theme-miho.git
+
 
 root dir, find _config.yml ,change themes: landscape to themes: hexo-theme-miho
 
