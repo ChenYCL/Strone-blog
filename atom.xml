@@ -5,9 +5,9 @@
   
   <link href="/Strone-blog/atom.xml" rel="self"/>
   
-  <link href="http://chenycl.github.io/"/>
+  <link href="http://chenycl.github.io/Strone-blog/"/>
   <updated>2018-01-25T02:56:18.042Z</updated>
-  <id>http://chenycl.github.io/</id>
+  <id>http://chenycl.github.io/Strone-blog/</id>
   
   <author>
     <name>ChenYCL</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>python</title>
-    <link href="http://chenycl.github.io/2018/01/25/python/"/>
-    <id>http://chenycl.github.io/2018/01/25/python/</id>
+    <link href="http://chenycl.github.io/Strone-blog/2018/01/25/python/"/>
+    <id>http://chenycl.github.io/Strone-blog/2018/01/25/python/</id>
     <published>2018-01-25T02:55:43.000Z</published>
     <updated>2018-01-25T02:56:18.042Z</updated>
     
@@ -35,15 +35,15 @@
     
     </summary>
     
-      <category term="python" scheme="http://chenycl.github.io/categories/python/"/>
+      <category term="python" scheme="http://chenycl.github.io/Strone-blog/categories/python/"/>
     
     
   </entry>
   
   <entry>
     <title>linux</title>
-    <link href="http://chenycl.github.io/2018/01/25/linux/"/>
-    <id>http://chenycl.github.io/2018/01/25/linux/</id>
+    <link href="http://chenycl.github.io/Strone-blog/2018/01/25/linux/"/>
+    <id>http://chenycl.github.io/Strone-blog/2018/01/25/linux/</id>
     <published>2018-01-25T02:55:37.000Z</published>
     <updated>2018-01-25T02:56:18.042Z</updated>
     
@@ -59,15 +59,15 @@
     
     </summary>
     
-      <category term="Linux" scheme="http://chenycl.github.io/categories/Linux/"/>
+      <category term="Linux" scheme="http://chenycl.github.io/Strone-blog/categories/Linux/"/>
     
     
   </entry>
   
   <entry>
     <title>Hexo到Github样式不出来</title>
-    <link href="http://chenycl.github.io/2017/09/04/hexo%E6%A0%B7%E5%BC%8F%E4%B8%8A%E4%BC%A0github%E9%94%99%E4%B9%B1/"/>
-    <id>http://chenycl.github.io/2017/09/04/hexo样式上传github错乱/</id>
+    <link href="http://chenycl.github.io/Strone-blog/2017/09/04/hexo%E6%A0%B7%E5%BC%8F%E4%B8%8A%E4%BC%A0github%E9%94%99%E4%B9%B1/"/>
+    <id>http://chenycl.github.io/Strone-blog/2017/09/04/hexo样式上传github错乱/</id>
     <published>2017-09-03T16:00:00.000Z</published>
     <updated>2018-01-25T02:51:34.948Z</updated>
     
@@ -79,21 +79,21 @@
     
     </summary>
     
-      <category term="前端" scheme="http://chenycl.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="http://chenycl.github.io/Strone-blog/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="Hexo" scheme="http://chenycl.github.io/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://chenycl.github.io/Strone-blog/tags/Hexo/"/>
     
-      <category term="Github" scheme="http://chenycl.github.io/tags/Github/"/>
+      <category term="Github" scheme="http://chenycl.github.io/Strone-blog/tags/Github/"/>
     
-      <category term="部署" scheme="http://chenycl.github.io/tags/%E9%83%A8%E7%BD%B2/"/>
+      <category term="部署" scheme="http://chenycl.github.io/Strone-blog/tags/%E9%83%A8%E7%BD%B2/"/>
     
   </entry>
   
   <entry>
     <title>Es6中的重点语法摘录</title>
-    <link href="http://chenycl.github.io/2017/06/18/es6-1/"/>
-    <id>http://chenycl.github.io/2017/06/18/es6-1/</id>
+    <link href="http://chenycl.github.io/Strone-blog/2017/06/18/es6-1/"/>
+    <id>http://chenycl.github.io/Strone-blog/2017/06/18/es6-1/</id>
     <published>2017-06-17T16:00:00.000Z</published>
     <updated>2018-01-25T02:51:34.948Z</updated>
     
@@ -105,12 +105,12 @@
     
     </summary>
     
-      <category term="前端" scheme="http://chenycl.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="http://chenycl.github.io/Strone-blog/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="js" scheme="http://chenycl.github.io/tags/js/"/>
+      <category term="js" scheme="http://chenycl.github.io/Strone-blog/tags/js/"/>
     
-      <category term="es6" scheme="http://chenycl.github.io/tags/es6/"/>
+      <category term="es6" scheme="http://chenycl.github.io/Strone-blog/tags/es6/"/>
     
   </entry>
   
